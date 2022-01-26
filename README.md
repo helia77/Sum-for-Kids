@@ -3,4 +3,4 @@
  
  
  <p><b>Sample test result:</b></p>
-  <img src = "Result.jpg" width=400>
+  <img src = "Result.jpg" width=750>
